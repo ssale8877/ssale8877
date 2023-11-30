@@ -9,4 +9,5 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ssale8877&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssale8877)](https://github.com/anuraghazra/github-readme-stats)
 
