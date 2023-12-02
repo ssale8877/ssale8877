@@ -1,5 +1,5 @@
   <div id="header" align="center"><h1>
-  Hey there! My name is Salikova Salena ))
+  Hey there! My name is Salikova Salena 
 </h1>
   <img src="https://i.postimg.cc/K8mdbj4Z/7-DTc5-AKaw.gif" width="500"/>
   </div>
